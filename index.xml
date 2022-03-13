@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© francis 2022</copyright>
-    <lastBuildDate>Sat, 12 Mar 2022 13:32:24 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 23:05:40 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design and Building of a Simple Banking Application</title>
+      <link>http://example.org/posts/design_and_building_a_simple_banking_application/</link>
+      <pubDate>Sat, 12 Mar 2022 23:05:40 +0100</pubDate>
+      
+      <guid>http://example.org/posts/design_and_building_a_simple_banking_application/</guid>
+      <description>Introduction After a long time away from Java, I needed to write this small application. An interesting feature of this application quote-unquote is that it would be built without a mainstream DB, not even H2 database. This restriction from using already existing DBs largely influenced my design decisions for the application. Here is the finished code
+Thoughts and Design&amp;hellip; I had about six endpoints to implement, which are listed below.</description>
+    </item>
+    
     <item>
       <title>Good software design solves the problem</title>
       <link>http://example.org/posts/good_software_design/</link>
