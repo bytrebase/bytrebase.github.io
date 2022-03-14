@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/design_and_building_a_simple_banking_application/</loc>
-    <lastmod>2022-03-12T23:05:40+01:00</lastmod>
+    <loc>http://example.org/posts/design_and_building_a_simple_banking_application_2/</loc>
+    <lastmod>2022-03-13T17:16:21+01:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2022-03-12T23:05:40+01:00</lastmod>
+    <lastmod>2022-03-13T17:16:21+01:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2022-03-12T23:05:40+01:00</lastmod>
+    <lastmod>2022-03-13T17:16:21+01:00</lastmod>
   </url><url>
     <loc>http://example.org/series/</loc>
-    <lastmod>2022-03-12T23:05:40+01:00</lastmod>
+    <lastmod>2022-03-13T17:16:21+01:00</lastmod>
   </url><url>
     <loc>http://example.org/series/spring-simple-banking-application/</loc>
+    <lastmod>2022-03-13T17:16:21+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/design_and_building_a_simple_banking_application/</loc>
     <lastmod>2022-03-12T23:05:40+01:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/best-practice/</loc>

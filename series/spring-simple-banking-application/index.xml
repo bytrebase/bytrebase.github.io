@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© francis 2022</copyright>
-    <lastBuildDate>Sat, 12 Mar 2022 23:05:40 +0100</lastBuildDate><atom:link href="http://example.org/series/spring-simple-banking-application/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 17:16:21 +0100</lastBuildDate><atom:link href="http://example.org/series/spring-simple-banking-application/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design and Building of a Simple Banking Application II</title>
+      <link>http://example.org/posts/design_and_building_a_simple_banking_application_2/</link>
+      <pubDate>Sun, 13 Mar 2022 17:16:21 +0100</pubDate>
+      
+      <guid>http://example.org/posts/design_and_building_a_simple_banking_application_2/</guid>
+      <description>Introduction This post is a sequel of part 1 were talked about some design decisions, especially about building without a mainstream DB. This post is primarily on how I spent half of the time developing this app on spring-security 😫🤕. Nonetheless, this gave me a new picture of how spring applications work&amp;hellip;If it hadn&amp;rsquo;t been for this aspect of the application, I might not have learnt about filters and servlets.</description>
+    </item>
+    
     <item>
       <title>Design and Building of a Simple Banking Application</title>
       <link>http://example.org/posts/design_and_building_a_simple_banking_application/</link>
