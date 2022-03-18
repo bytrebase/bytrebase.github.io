@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© francis 2022</copyright>
-    <lastBuildDate>Sat, 12 Mar 2022 13:32:24 +0100</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 23:45:37 +0100</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanilla JS</title>
+      <link>http://example.org/categories/vanilla-js/</link>
+      <pubDate>Thu, 17 Mar 2022 23:45:37 +0100</pubDate>
+      
+      <guid>http://example.org/categories/vanilla-js/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Best practice</title>
       <link>http://example.org/categories/best-practice/</link>

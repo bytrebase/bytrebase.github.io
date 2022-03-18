@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© francis 2022</copyright>
-    <lastBuildDate>Sun, 13 Mar 2022 17:16:21 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 23:45:37 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attaching event listeners in FOR loop</title>
+      <link>http://example.org/posts/attaching_event_listeners_in_for_loop/</link>
+      <pubDate>Thu, 17 Mar 2022 23:45:37 +0100</pubDate>
+      
+      <guid>http://example.org/posts/attaching_event_listeners_in_for_loop/</guid>
+      <description>Introduction A friend who was getting into tech was developing a GUI calculator in vanilla JS. In the process, he noticed a bug, and after searching the web, he found an article that talks about his problem event listeners in loops
+This post is an in-depth explanation of the problem and possible solutions.
+Statement of Problem In building a calculator application, there are a series of buttons for selecting particular numbers.</description>
+    </item>
+    
     <item>
       <title>Design and Building of a Simple Banking Application II</title>
       <link>http://example.org/posts/design_and_building_a_simple_banking_application_2/</link>
